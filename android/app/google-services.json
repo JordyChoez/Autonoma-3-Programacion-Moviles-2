@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563078917073",
+    "project_id": "fir-flutter-codelab-57d88",
+    "storage_bucket": "fir-flutter-codelab-57d88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563078917073:android:0264b7324264f2c54a0ef0",
+        "android_client_info": {
+          "package_name": "com.jordychoez.aplicacion2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7uxT0k2EZtBnmJRl6ZBb3KWBoVmjjxVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
